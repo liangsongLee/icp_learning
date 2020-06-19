@@ -1,0 +1,5 @@
+build/
+cmake-build-debug/
+3rdParty/g2o/build/
+3rdParty/g2o/lib/
+.idea/
